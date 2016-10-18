@@ -16,3 +16,7 @@ This repository is meant to be a tutorial for how to use Terraform for AWS provi
     
     This tutorial goes over how to incorporate local modules in order to re-use your code. 
 
+4. [Remote Modules](./4-remote-modules)
+    
+    This tutorial shows how to incorporate remote, git modules in order to re-use code within your team, your organization, and the world.
+
