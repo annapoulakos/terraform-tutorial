@@ -4,3 +4,4 @@
 *.plan
 
 **/main.tfvars
+**/.terraform/
