@@ -7,3 +7,8 @@ This repository is meant to be a tutorial for how to use Terraform for AWS provi
 1. [Introduction](./1-introduction)
     
     This tutorial goes over the basics of making sure your environment is set up appropriately.
+    
+2. [Repeating](./2-repeating)
+
+    This tutorial goes over the basics of creating multiple resources with a similar configuration using Terraform's repeat functionality.
+
