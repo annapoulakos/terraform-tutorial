@@ -42,7 +42,9 @@ It will ask for your access key, secret key, region, and preferred output format
 
 #### Your First Provisioning
 
-If you look in this directory, there are two Terraform files:
+Pull this terraform training repo to a location on your local workstation.
+
+If you look in 1-introduction directory, there are two Terraform files:
 
 ```
 0.variables.tf
